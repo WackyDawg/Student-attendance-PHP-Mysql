@@ -14,7 +14,7 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2021 Copyright:
-    <a href="mailto: shrutik0219@gmail.com"> shrutik0219@gmail.com </a>
+    <a href="mailto: julianlouis590@gmail.com"> julianlouis590@gmail.com </a>
   </div>
   <!-- Copyright -->
 
